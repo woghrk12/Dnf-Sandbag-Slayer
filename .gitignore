@@ -70,6 +70,7 @@ desktop.ini
 .env.*
 
 # Data files
+Data/
 *.pkl
 *.joblib
 *.csv
